@@ -1,5 +1,13 @@
 // Everything OK?
 console.log('OK');
-$(".thumbnail").fitVids();
 
-// Your Awesome Scripts
+
+// Zoom It
+
+$('data-spzoom').spzoom({
+    width: 500,
+    height: 500,
+    position: 'left',
+    showTitle: false
+})
+

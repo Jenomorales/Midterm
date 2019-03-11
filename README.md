@@ -1,6 +1,6 @@
-# Web 2 Starter
-Winter 2019 Web 2 Starter. Our DIY framework.
+spzoom
+======
 
-## Dependencies
-* [Normalize CSS](https://necolas.github.io/normalize.css/)
-* [jQuery Libary](https://jquery.com)
+> simple jQuery image zoomer.
+
+See <http://spajak.github.io/spzoom/> for demos and options.
